@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deepika6120
 - 👀 I’m interested in learning and exploring new things 
 - 🌱 I’m currently learning something cool!!
-- 💞️ I’m looking to collaborate with others
 - 📫 How to reach me through mail 
 
 <!---
